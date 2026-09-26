@@ -30,8 +30,7 @@ import net.runelite.client.util.Text;
 @PluginDescriptor(
 	name = "Auto Chat Suppression",
 	description = "Automatic exact-match suppression of game chat messages for Old School RuneScape.",
-	tags = {"chat", "filter"},
-	enabledByDefault = false
+	tags = {"chat", "filter"}
 )
 public class MessageSuppressPlugin extends Plugin
 {
